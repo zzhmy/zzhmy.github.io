@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: 你的网站URL/sitemap.xml 
